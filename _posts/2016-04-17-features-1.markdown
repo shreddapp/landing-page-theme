@@ -1,0 +1,12 @@
+---
+layout: default
+img: fdr-skatepark-cc.jpg
+category: Features
+title: We have spots.
+description: |
+---
+<p id="visitor_spot">
+	<!-- <button class="btn btn-primary btn-block" onclick="getLocation(searchSpots);">Search spots</button> -->
+</p>
+<p>We carefully pick up spots that we verify, and monitor their activity on social networks.</p>
+<p>Receive fresh content posted from your favorite ones.</p>

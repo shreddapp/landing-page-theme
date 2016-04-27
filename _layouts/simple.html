@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+			<div class="container">
+					<div class="navbar-header page-scroll">
+							<a class="navbar-brand page-scroll" href="#home">
+									<img src="/img/shredd-logo-header.png">
+									{{ site.title }}
+							</a>
+					</div>
+			</div>
+		</nav>
+		<div class="intro-header">
+			<div class="container" style="padding-top: 80px;">
+				<div class="row">
+					<div class="col-lg-6 col-lg-offset-3">
+						<div class="intro-message email-capture">
+							{{ content }}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include js.html %}
+	</body>
+</html>

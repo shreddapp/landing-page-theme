@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: SHREDD
+url: http://www.shredd.io
+title: Shredd.io
 email: contact@shredd.io
-author: SHREDD
+author: Shredd
 description: > # "Write an awesome description for your new site here.
   SHREDD is a simple way to plan sessions with your friends at your local skate spot.
   You should go outside and play.
-copyright: 'Copyright &copy; 2016 SHREDD. All Rights Reserved.'
+copyright: 'Copyright &copy; 2016 Shredd. All Rights Reserved.'
 # credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -26,7 +26,9 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/shredd.io
+    url: https://twitter.com/shredd_app
+  - title: instagram
+    url: https://www.instagram.com/shredd_app
   # - title: github
   #   url: https://github.com/IronSummitMedia/startbootstrap
   # - title: linkedin

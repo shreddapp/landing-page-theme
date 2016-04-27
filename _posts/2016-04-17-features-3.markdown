@@ -1,0 +1,9 @@
+---
+layout: default
+<!-- img: services/ipad.png -->
+category: Features
+title: Let's make it happen.
+description: |
+---
+<p>No more call waiting or 12-ways convos: find the right spot, plan a session and notify your friends.</p>
+<p>Just go outside, and <strong>skate more.</strong></p>

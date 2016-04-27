@@ -1,0 +1,9 @@
+---
+layout: default
+img: friends.jpg
+category: Features
+title: You have friends.
+description: |
+---
+<p>Let each other know where you at.</p>
+<p>Share your activity with your clique, don't ever miss the next session again.</p>
