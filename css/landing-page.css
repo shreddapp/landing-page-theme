@@ -242,3 +242,7 @@ p.copyright {
     color: white;
     font-size: 1.5em;
 }
+
+::selection {
+    background: #ffb200;
+}
