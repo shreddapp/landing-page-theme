@@ -33,3 +33,9 @@ social:
   #   url: https://github.com/IronSummitMedia/startbootstrap
   # - title: linkedin
   #   url:
+
+store:
+  - img: img/download/download_playstore.png
+    url: https://play.google.com/store/apps/details?id=io.shredd
+  - img: img/download/download_appstore_greyed.png
+    url: ''
